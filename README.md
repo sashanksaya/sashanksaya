@@ -18,14 +18,14 @@
   <a href="mailto:sashanksaya@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15" title="Gmail"/></a> - sashanksaya@gmail.com,  <a href="https://wa.me/6363345756"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="15" title="Gmail"/></a>  <img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="15" title="Signal"/>  <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="15" title="Telegram"/>  <img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="15" title="Phone"/> <strong>@</strong> +91 6363866757,  <Strong>Social</strong> - <a href="https://www.linkedin.com/in/sashank-saya-78700522b/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="15" title="LinkedIn" /></a>  <a href="https://www.instagram.com/sashank_saya/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="15" title="Instagram" /></a>  <a href="https://www.facebook.com/sayashashank/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="15" title="Facebook" /></a>  <a href="https://www.github.com/sashanksaya/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="15" title="GitHub" /></a>
 </pre>
 </details>
-<!--   
+  
  # Snake eating my contributions...  :(
-![snake gif](https://github.com/sathviksaya/sathviksaya/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sashanksaya/sashanksaya/blob/output/github-contribution-grid-snake.gif)
 
 # GitHub Activity
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sathviksaya)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sashanksaya)
 
 # This Repo
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya) -->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sashanksaya&repo=sashanksaya) 

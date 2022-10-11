@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://pin.it/3C65F6b" width="200"><br>
-<sup>OctoMinion</sup>
+<img src="https://raw.githubusercontent.com/sashanksaya/sashanksaya/main/hashira.png" width="200"><br>
+<sup>🔥Hashiras🔥</sup>
 </div>
 
 ## ➢Hey PPL.!😁

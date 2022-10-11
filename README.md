@@ -23,7 +23,7 @@
 ![snake animation](https://github.com/sashanksaya/sashanksaya/blob/output/github-contribution-grid-snake2.svg)
 
 # GitHub Activity
-![counter](https://en7bzls65g1g55c.m.pipedream.net)
+![Profile views](https://gpvc.arturio.dev/sashanksaya)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sashanksaya)
 

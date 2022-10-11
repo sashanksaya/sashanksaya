@@ -20,7 +20,7 @@
 </details>
   
  # Snake eating my contributions...  :(
-![snake gif](https://github.com/sashanksaya/sashanksaya/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/sashanksaya/sashanksaya/blob/output/github-contribution-grid-snake2.svg)
 
 # GitHub Activity
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://octodex.github.com/images/minion.png" width="200"><br>
+<img src="https://pin.it/3C65F6b" width="200"><br>
 <sup>OctoMinion</sup>
 </div>
 

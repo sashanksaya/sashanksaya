@@ -8,7 +8,7 @@
 <summary>Click here to know about me!!!</summary>
 <pre>
 - 🔭 I’m currently working on developing my programming skills.
-- 🌱 I’m currently learning B.Tech in CSE, DSATM-Bangalore.
+- 🌱 I graduated with a B.Tech in CSE from DSATM, Bangalore.
 - 👯 I’m looking to collaborate on <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="15" title="Flutter"/> Projects.
 - 🤔 I’m looking for help with Data Structures.
 - 💬 Ask me about anything, doesn't matter if I Know or Don't.
